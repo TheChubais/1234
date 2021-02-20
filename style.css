@@ -1,0 +1,132 @@
+h1{
+    position: absolute;
+width: 150px;
+height: 40px;
+left: 55px;
+top: 110px;
+font-family: Form;
+font-style: normal;
+font-weight: bold;
+font-size: 30px;
+line-height: 40px;
+letter-spacing: 0.01em;
+color: #000000;
+}
+p#p1{
+    position: absolute;
+width: 275px;
+height: 150px;
+left: 55px;
+top: 205px;
+font-family: PragmaticaC;
+font-style: normal;
+font-weight: normal;
+font-size: 22px;
+line-height: 30px
+}
+p#p2{
+    position: absolute;
+    width: 275px;
+    height: 90px;
+    left: 385px;
+    top: 205px;    
+    font-family: PragmaticaC;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 22px;
+    line-height: 30px;    
+    color: #000000;}
+p#p3{
+    
+position: absolute;
+width: 275px;
+height: 120px;
+left: 715px;
+top: 205px;
+font-family: PragmaticaC;
+font-style: normal;
+font-weight: normal;
+font-size: 22px;
+line-height: 30px;
+color: #000000;
+}
+p#p4{
+    position: absolute;
+width: 275px;
+height: 120px;
+left: 1045px;
+top: 205px;
+font-family: PragmaticaC;
+font-style: normal;
+font-weight: normal;
+font-size: 22px;
+line-height: 30px;
+color: #000000;
+}
+p#d1{
+    position: absolute;
+width: 77px;
+height: 20px;
+left: 55px;
+top: 510px;
+font-family: PragmaticaC;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 20px;
+color: #000000;
+}
+p#d2{
+    position: absolute;
+width: 77px;
+height: 20px;
+left: 385px;
+top: 510px;
+font-family: PragmaticaC;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 20px;
+color: #000000;
+}
+P#d3{
+    position: absolute;
+width: 77px;
+height: 20px;
+left: 715px;
+top: 510px;
+font-family: PragmaticaC;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 20px;
+color: #000000;
+}
+P#d4{
+position: absolute;
+width: 77px;
+height: 20px;
+left: 1045px;
+top: 510px;
+font-family: PragmaticaC;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 20px;
+color: #000000;
+}
+h2{
+   
+position: absolute;
+width: 121px;
+height: 20px;
+left: 1199px;
+top: 110px;
+font-family: PragmaticaC;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 20px;
+color: #000000;
+}
+
